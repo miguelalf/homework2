@@ -1,4 +1,4 @@
-# Gestor de usuarios y roles
+# User/Role Manager
 
 This project is maded as a second task for the program Platzi Master. The main function is a dashboard to manage admin coaches.
 
